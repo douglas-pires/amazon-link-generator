@@ -1,0 +1,13 @@
+{
+  "name": "amazon-link-generator",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "taiko index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "taiko": "^1.0.2"
+  }
+}
