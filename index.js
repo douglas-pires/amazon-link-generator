@@ -117,4 +117,4 @@ const init = async () => {
   await cycleProducts();
 };
 
-init();
+exports.init = init;
