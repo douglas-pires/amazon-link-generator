@@ -1,7 +1,8 @@
 {
-  "name": "amazon-link-generator",
+  "name": "@douglas-pires/amazon-link-generator",
   "version": "1.0.0",
   "description": "",
+  "repository": "https://github.com/douglas-pires/amazon-link-generator",
   "scripts": {
     "start": "taiko index.js"
   },
