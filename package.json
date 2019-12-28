@@ -5,7 +5,8 @@
   "scripts": {
     "start": "taiko index.js"
   },
-  "author": "",
+  "publishConfig": { "registry": "https://npm.pkg.github.com/" },
+  "author": "Douglas Pires -- douglas.pires@live.com",
   "license": "ISC",
   "dependencies": {
     "taiko": "^1.0.2"
