@@ -6,7 +6,8 @@ const {
   evaluate,
   $,
   waitFor,
-  textBox
+  textBox,
+  goBack
 } = require("taiko");
 const fs = require("fs");
 
